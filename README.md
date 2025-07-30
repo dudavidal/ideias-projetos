@@ -1,3 +1,8 @@
+<p align="center" style="font-size: 1.5rem;">
+  🌸 👩‍💻 🤓
+</p>
+
+
 # 💡 Projetos App Ideas com C e React
 
 Este repositório contém a minha implementação dos projetos do [App Ideas](https://github.com/app-ideas/app-ideas) usando **C** e **React**. O objetivo é praticar programação de sistemas (com C) e desenvolvimento front-end (com React).
